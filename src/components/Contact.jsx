@@ -138,7 +138,7 @@ text-gray-400
 mt-3
 ">
 
-your-email@gmail.com
+your-chamidudayan2331@gmail.com
 
 </p>
 
@@ -238,14 +238,14 @@ text-cyan-400
 ">
 
 
-<a href="#">
+<a href="https://github.com/ChathurangaGMCD">
 
 <FaGithub/>
 
 </a>
 
 
-<a href="#">
+<a href="https://www.linkedin.com/in/chamidu-dayan-91478a278">
 
 <FaLinkedin/>
 
