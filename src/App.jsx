@@ -10,15 +10,15 @@ import Background from "./components/Background";
 function App() {
   return (
     <>
-      <Background />
+    {/* <Background /> */}
 
-      <Navbar />
-      <Hero />
-      <About />
-      <Skills />
-      <Projects />
-      <Contact />
-      <Footer />
+            <Navbar />
+            <Hero />
+            <About />
+            <Skills />
+            <Projects />
+            <Contact />
+            <Footer />
     </>
   );
 }
